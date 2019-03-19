@@ -1,8 +1,11 @@
 # ProjectIt
 Projectional Editor for the Web.
 
-ProjectIt will be presented at the LangDev workshop in Amsterdam on March 21-22.
+**NOTE:** This is not the real ProjectIt repository, but a placeholder!
+The real repository is not accessible because it is being prepared now.
+The www.projectit.org URL will be redirected to the real repository on March 22. 
+
+ProjectIt will first be presented at the LangDev workshop in Amsterdam on March 21-22.
 
 ![logo](/projectit.png)
 
-This project is under development and the first version will be available in Q1 2019.
